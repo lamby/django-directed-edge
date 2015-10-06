@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='django-directed-edge',
-    version=1,
+    version='2',
     packages=(
         'django_directed_edge',
     ),
