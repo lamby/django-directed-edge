@@ -10,4 +10,8 @@ setup(
     author="Chris Lamb",
     author_email="chris@chris-lamb.co.uk",
     description="Helpful Django-oriented sugar around around DirectedEdge's Python API",
+
+    install_requires=(
+        'Django>=1.8',
+    ),
 )
